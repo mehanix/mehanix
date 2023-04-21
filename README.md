@@ -39,7 +39,7 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=learnAnatomy&theme=dracula" />
 </a>
 
-<a href="https://github.com/TidyCobra">
+<a href="https://github.com/mehanix/TidyCobra">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=TidyCobra&theme=dracula" />
 </a>
 
