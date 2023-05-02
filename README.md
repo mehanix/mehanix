@@ -14,8 +14,6 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=mehanix&color=FF4F8B&style=for-the-badge&label=Profile+views+since+August+2022" alt="View counter for mehanix">
 
-[![View my - Resume](https://img.shields.io/badge/View_my-Resume-FF4F8B?style=for-the-badge&logo=windows-terminal&logoColor=ffffff)](https://)
-
 ### My projects
 
 🌸 I've been tinkering with code since high school. I learn by doing, therefore I have built a few projects over the course of the years.<br> Click on the cards to learn more about the projects.
@@ -85,10 +83,6 @@ You can contact me via:
 
 <a href="https://www.linkedin.com/in/nicoleta-ciausu/"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</img> 
-</a>
-
-<a href="https://www.linkedin.com/in/nicoleta-ciausu/"> 
-<img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=windows-terminal&logoColor=ffffff"</img> 
 </a>
 
 
