@@ -21,26 +21,31 @@
 <a href="https://github.com/mehanix/arcada">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=arcada&theme=dracula" />
 </a>
-<a href="https://github.com/mehanix/ripple">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=ripple&theme=dracula" />
-</a>
+
 <a href="https://github.com/mehanix/Downbeat">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Downbeat&theme=dracula" />
 </a>
-<a href="https://github.com/mehanix/Cave-Run">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Cave-Run&theme=dracula" />
+
+<a href="https://github.com/mehanix/ripple">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=ripple&theme=dracula" />
 </a>
+
 <a href="https://github.com/mehanix/PancakeTower">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=PancakeTower&theme=dracula" />
 </a>
+
 <a href="https://github.com/mehanix/learnAnatomy">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=learnAnatomy&theme=dracula" />
 </a>
 
+<a href="https://github.com/mehanix/Cave-Run">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Cave-Run&theme=dracula" />
+</a>
+
+
 <a href="https://github.com/mehanix/TidyCobra">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=TidyCobra&theme=dracula" />
 </a>
-
 <a href="https://github.com/mehanix/Flora">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Flora&theme=dracula" />
 </a>
@@ -57,10 +62,10 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=21cardtrick&theme=dracula" />
 </a>
 
-
 <a href="https://github.com/mehanix/Storyboard">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Storyboard&theme=dracula" />
 </a>
+
 <br></br>
 ✍🏻 I sometimes write technical articles on <a href=https://medium.com/@mehanix>my blog 📝</a>, the most successful of which has gained <b>73K views</b>.
 
