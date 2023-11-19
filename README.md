@@ -66,6 +66,14 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Storyboard&theme=dracula" />
 </a>
 
+<a href="https://github.com/mehanix/IntroductionToRobotics">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=IntroductionToRobotics&theme=dracula" />
+</a>
+
+<a href="https://github.com/mehanix/teme-fmi">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=teme-fmi&theme=dracula" />
+</a>
+
 <br></br>
 ✍🏻 I sometimes write technical articles on <a href=https://medium.com/@mehanix>my blog 📝</a>, the most successful of which has gained <b>73K views</b>.
 
