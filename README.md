@@ -1,10 +1,12 @@
 ## Hi, I'm Nicoleta 🌸
 
-🌸 I'm a software developer based in **Bucharest, Romania**.
+🌸 I'm a software engineer based in **Bucharest, Romania**.
 
 👩🏻‍🎓 Graduated with a degree in **Computer Science** @ University of Bucharest in 2022.
 
 👩🏻‍💻 Completing a Master's in **Software Engineering** @ University of Bucharest, est. 2024.
+
+✈️ Currently on an  **Erasmus+ Student Exchange** @ Julius-Maximilians-Universität Würzburg, est. March 2024.
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
 
