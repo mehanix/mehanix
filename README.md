@@ -88,9 +88,7 @@
 
 ### Reach out! 🌟
  
-I am open to freelance work and new opportunities in software development.
-
-You can contact me via:
+Feel free to get in touch via:
 
 <a href="mailto:nicoleta.ciausu@outlook.com"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="</img> 
