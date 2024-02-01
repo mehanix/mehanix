@@ -11,7 +11,7 @@
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
 
 <img src="https://readme-stats.clckblog.space/api?username=mehanix&count_private=true&show_icons=true&theme=dracula&hide=contribs" alt="Mehanix's profile card">
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=mehanix&hide=haskell,html&layout=compact&card_width=260&theme=dracula" alt="Mehanix's most used languages">
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=mehanix&hide=haskell,html&exclude_repo=Downbeat&langs_count=6&size_weight=0.5&count_weight=0.5&layout=compact&card_width=260&theme=dracula" alt="Mehanix's most used languages">
 </div>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=mehanix&color=FF4F8B&style=for-the-badge&label=Profile+views+since+August+2022" alt="View counter for mehanix">
