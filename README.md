@@ -90,7 +90,7 @@
  
 Feel free to get in touch via:
 
-<a href="mailto:nicoleta.ciausu@outlook.com"> 
+<a href="mailto:hello@nicoleta.cc"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="</img> 
 </a>
 
