@@ -2,6 +2,8 @@
 
 🌸 I'm a software engineer based in **Bucharest, Romania**.
 
+🦉 Current role: Software Engineer @ Hootsuite.
+
 👩🏻‍🎓 Graduated with a degree in **Computer Science** @ University of Bucharest in 2022.
 
 👩🏻‍💻 Completing a Master's in **Software Engineering** @ University of Bucharest, est. 2024.
