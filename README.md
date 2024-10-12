@@ -2,7 +2,7 @@
 
 🌸 I'm a software engineer based in **Bucharest, Romania**.
 
-🦉 Current role: Software Engineer at **Hootsuite**. Backend development in **Go/Python** for the Analytics platform.
+🦉 Current role: Software Engineer at **Hootsuite** doing backend development in **Go/Python** for the Analytics platform.
 
 👩🏻‍🎓 BSc in **Computer Science**  and MSc in **Software Engineering** @ University of Bucharest, graduated in 2024.
 
