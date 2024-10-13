@@ -24,6 +24,10 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=arcada&theme=dracula" />
 </a>
 
+<a href="https://github.com/mehanix/dhrw">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=dhrw&theme=dracula" />
+</a>
+
 <a href="https://github.com/mehanix/ripple">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=ripple&theme=dracula" />
 </a>
