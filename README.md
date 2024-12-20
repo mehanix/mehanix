@@ -20,6 +20,10 @@
 
 🌸 I've been tinkering with code since high school. I learn by doing, therefore I have built a few projects over the course of the years.<br> Click on the cards to learn more about the projects.
 
+✍🏻 I sometimes write technical articles on <a href=https://medium.com/@mehanix>my blog 📝</a>, the most successful of which has gained <b>73K views</b>.
+
+🏆 **197th place** in the [Top Most Active GitHub Users in Romania](https://commits.top/romania.html) (August 2022)
+
 <a href="https://github.com/mehanix/arcada">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=arcada&theme=dracula" />
 </a>
@@ -80,10 +84,7 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=teme-fmi&theme=dracula" />
 </a>
 
-<br></br>
-✍🏻 I sometimes write technical articles on <a href=https://medium.com/@mehanix>my blog 📝</a>, the most successful of which has gained <b>73K views</b>.
 
-🏆 **197th place** in the [Top Most Active GitHub Users in Romania](https://commits.top/romania.html) (August 2022)
 <!--
 <a href="https://nicoleta.cc/blog"> 
 <img src="https://img.shields.io/static/v1?&message=nicoleta.cc+(WIP)&style=for-the-badge&color=992e63&logo=ICQ&logoColor=FFFFFF&label="</img> 
