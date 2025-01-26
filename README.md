@@ -24,6 +24,10 @@
 
 🏆 **197th place** in the [Top Most Active GitHub Users in Romania](https://commits.top/romania.html) (August 2022)
 
+<a href="https://github.com/mehanix/bubblemancer">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=bubblemancer&theme=dracula" />
+</a>
+
 <a href="https://github.com/mehanix/arcada">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=arcada&theme=dracula" />
 </a>
