@@ -10,9 +10,6 @@
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
 
-<img src="https://readme-stats.clckblog.space/api?username=mehanix&count_private=true&show_icons=true&theme=dracula&hide=contribs" alt="Mehanix's profile card">
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=mehanix&hide=haskell,html&exclude_repo=Downbeat&langs_count=6&size_weight=0.5&count_weight=0.5&layout=compact&card_width=260&theme=dracula" alt="Mehanix's most used languages">
-</div>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=mehanix&color=FF4F8B&style=for-the-badge&label=Profile+views+since+August+2022" alt="View counter for mehanix">
 
@@ -23,70 +20,6 @@
 ✍🏻 I sometimes write technical articles on <a href=https://medium.com/@mehanix>my blog 📝</a>, the most successful of which has gained <b>73K views</b>.
 
 🏆 **197th place** in the [Top Most Active GitHub Users in Romania](https://commits.top/romania.html) (August 2022)
-
-<a href="https://github.com/mehanix/bubblemancer">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=bubblemancer&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/arcada">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=arcada&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/dhrw">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=dhrw&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/ripple">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=ripple&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/TidyCobra">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=TidyCobra&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/learnAnatomy">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=learnAnatomy&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Downbeat">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Downbeat&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/PancakeTower">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=PancakeTower&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Cave-Run">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Cave-Run&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Flora">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Flora&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Blackout">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Blackout&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Enigma">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Enigma&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/21cardtrick">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=21cardtrick&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/Storyboard">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=Storyboard&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/IntroductionToRobotics">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=IntroductionToRobotics&theme=dracula" />
-</a>
-
-<a href="https://github.com/mehanix/teme-fmi">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=mehanix&repo=teme-fmi&theme=dracula" />
-</a>
 
 
 <!--
