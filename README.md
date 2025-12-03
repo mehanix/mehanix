@@ -1,5 +1,5 @@
 ### hi there ~
-🌱 i'm a <b>generalist software engineer</b> (indie dev) and love building complete applications <br/>
+🌱 i'm a <b>generalist software engineer</b> (indie dev) who loves building complete applications <br/>
 
 <b>🌟 currently dreaming of:</b> making something good enough to present at a <a href="https://events.ccc.de/en/congress/">Chaos Communication Congress</a>
 
